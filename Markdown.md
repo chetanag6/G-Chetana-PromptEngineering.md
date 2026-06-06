@@ -31,7 +31,7 @@ Imagine you are on a treasure hunt. You find a large wooden box. You open it, bu
 
 If this went on forever, you’d be opening boxes until you were 90 years old. That’s why recursion needs a golden rule called the Base Case. The Base Case is simply the stopping point.
 
-In our treasure hunt, the Base Case is the tiniest box that finally holds the sparkling gold key! Once you reach that final box, you stop opening new ones, grab the key, and the game is won. 🕵️‍♂️✨
+In our treasure hunt, the Base Case is the tiniest box that finally holds the sparkling gold key! Once you reach that final box, you stop opening new ones, grab the key, and the game is won.
 
 So, recursion is just a process that repeats itself inside itself, until it hits its favorite stopping point!
 
